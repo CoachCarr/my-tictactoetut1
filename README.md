@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+This is just a tutorial project to help me start with react and various development tools. For example, I want to put a link to stackblitz in this readme when I get the thing working. "my-tttt" is for tic-tac-toe-tut orial.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Hey, I'm just getting Started with "Create React App"
+
+I've already heard that I should avoid "create react app" and that Nextjs is the thing. But I'm just beginning to learn React and this is what's in the official docs as a first tutorial. This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
