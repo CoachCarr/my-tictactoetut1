@@ -1,4 +1,8 @@
+# [Tic Tac Tutorial](https://react-ts-px8b6p.stackblitz.io)
+
 This is just a tutorial project to help me start with react and various development tools. For example, I want to put a link to stackblitz in this readme when I get the thing working. "my-tttt" is for tic-tac-toe-tut orial.
+
+update: got it [linked to stackblitz](https://react-ts-px8b6p.stackblitz.io) I've learned a lot so far but it has not been easy. I will pause development on this and add the game history buttons later, when I'll get more out of the experience.
 
 # Hey, I'm just getting Started with "Create React App"
 
